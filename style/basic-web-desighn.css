@@ -1,0 +1,106 @@
+
+header{
+    max-width: 1600px;
+    background: url("../images/banner/banner3.png");
+   
+    
+    
+    padding-top: 216px;
+    padding-left: 880px;
+    padding-right: 230px;
+    padding-bottom: 166px;
+    
+
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.hp2{
+    font-size: 16px;
+    line-height: 26px;
+     color: #FFFFFF;
+     margin-bottom: 32px;
+
+}
+.hp1{
+    font-size: 65px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: #005FAC;
+    padding: 20px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.hd1{
+    
+    max-width: 525px;
+    text-align: right;
+}
+.fdiv{
+    
+    max-width: 1165px;
+}
+.faltu p{
+    font-size: 40px;
+    font-weight: bold;
+}
+.faltu{
+    max-width: 288px;
+    margin-bottom: 24px;
+}
+.c1{
+    padding-top: 131px;
+    padding-left: 206px;
+    padding-right: 229px;
+}
+.writen{
+    margin-top: 229px;
+    margin-bottom: 84.3px;
+    max-width: 416px;
+    
+}
+.c1d1{
+    display: flex;
+    gap: 87px;
+    margin-bottom: 129.7px;
+}
+.p1{
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+   
+}
+.re{
+    font-size: 16px;
+    color: #444343;
+
+    margin-bottom: 8px;
+}
+.im1 img{
+    max-width: 569px;
+}
+
+.myplan{
+    margin-left: 400px;
+    font-size:28px ;
+    font-weight: bold;
+   
+   
+   
+    
+}
+
+
+
+   
+
+
+
