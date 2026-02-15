@@ -2,13 +2,13 @@
 header{
     max-width: 1600px;
     background: url("../images/banner/banner3.png");
-   
-    
-    
     padding-top: 216px;
     padding-left: 880px;
     padding-right: 230px;
     padding-bottom: 166px;
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     
 
 }
@@ -97,6 +97,85 @@ header{
    
     
 }
+.plans{
+    padding-top: 50px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.container{
+    max-width: 1141px;
+    margin: 0 auto;
+}
+
+.plans-wrapper{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.plan img{
+    margin-bottom: 24px;
+    max-width: 90px;
+}
+
+.plan h3{
+    font-size: 30px;
+    margin-bottom: 16px;
+    font-weight: bold;
+    
+}
+
+.plan p{
+    color: #737272;
+    font-size: 25px;
+    font-weight: medium;
+}
+.watch{
+    padding-top: 124px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.fullwatchdiv{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+   background: 
+        linear-gradient(90deg, rgba(241, 91, 34, 0.9) 0%, rgba(241, 91, 34, 0.0) 100%),
+        url("../images/watch.png");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 59px;
+    padding: 59px;
+    padding-right: 617px;
+    padding-left: 64px;
+    
+}
+.fwd1{
+    max-width: 459px;
+   
+    
+    
+}
+.fwd1 p{
+    font-size: 40px;
+    font-weight: bold;
+    color:white;
+    margin-bottom: 24px;
+}
+.btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: #F15B22;
+    padding: 20px 36px;
+    border: none;
+    border-radius: 5px;
+
+}
+
+
 
 
 
