@@ -140,10 +140,9 @@ header{
     max-width: 1140px;
     margin: 0 auto;
     
-   background: 
-        linear-gradient(90deg, rgba(241, 91, 34, 0.9) 0%, rgba(241, 91, 34, 0.0) 100%),
+    background: 
+        linear-gradient(90deg, rgba(0, 95, 172, 0.9) 0%, rgba(0, 95, 172, 0.0) 100%),
         url("../images/watch.png");
-
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -174,6 +173,110 @@ header{
     border-radius: 5px;
 
 }
+.maindiv{
+    background-color: #151414;
+    padding-top: 117px;
+    padding-bottom: 130px;
+    margin-top: 130px;
+}
+.lastsection{
+    
+    display: flex;
+    justify-content: space-between;
+     max-width: 1141px;
+    margin: 0 auto;
+   
+}
+    
+
+.fd1{
+    max-width: 485px;
+}
+.fd11 h2{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 28px;
+
+
+}
+.fd11 p{
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+    margin-bottom: 24px;
+
+
+}
+.fd12 .p1 {
+    font-size: 16px;
+    margin-bottom: 16px;
+    color: white;
+
+}
+.fd12 .p2{
+    font-size: 16px;
+    margin-bottom: 32px;
+    color: white;
+}
+.fd13 img{
+    max-width: 47px;
+    display: flex;
+    gap: 18px;
+
+}
+.fd13{
+    display: flex;
+    gap: 18px;
+}
+.fd2{
+    color: white;
+}
+
+.fd2 h6{
+    font-size: 25px;
+    margin-bottom: 31px;
+}
+
+.fd2 form{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.fd2 input{
+    padding: 22px;
+    border-radius: 8px;
+    border: 1px solid #444;
+   background-color: transparent;
+    color: white;
+    font-size: 18px;
+    width: 325px;
+}
+
+.fd2 input::placeholder{
+    color: #aaa;
+}
+
+.bt{
+    width: 170px;
+    padding: 20px 36px;
+    border-radius: 8px;
+    border: none;
+    background-color: #005FAC;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.bt:hover{
+    background-color: #e55d00;
+}
+
+
+
 
 
 
